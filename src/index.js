@@ -19,7 +19,6 @@
             summary.innerText = data.summary
             
 
-          // LOG: (3) [{…}, {…}, {…}]
         });
     })
 })
